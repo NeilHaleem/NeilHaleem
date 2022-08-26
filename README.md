@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NeilHaleem
-- 👀 I’m interested in full-stack software development and data analysis
-- 🌱 I’m currently learning front-end technologies
+- 👀 I’m interested in front-end / back-end /  full-stack software development and data analysis
 - 💞️ I’m looking to collaborate on an app or website for a social cause
 - 📫 You can reach me at neilhaleem1@gmail.com
 
